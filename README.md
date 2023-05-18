@@ -68,7 +68,7 @@ Take a look at how one topic can support all 3 types of projects!
 <details>
 <summary>Expand</summary>
 
-```python
+```<pre><code>
 class ForceUser:
     def __init__(self, name, side):
         self.name = name
@@ -100,7 +100,8 @@ luke.use_lightsaber()     # Output: Luke Skywalker swings a Blue lightsaber!
 vader = Sith("Darth Vader")
 vader.use_force()         # Output: Darth Vader uses the Force!
 vader.use_lightsaber()    # Output: Darth Vader wields a Red lightsaber!
-```
+</code></pre>
+    
 In this code, we have a base class called ForceUser, which represents individuals who can use the Force. The Jedi and Sith classes inherit from the ForceUser class and add specific behaviors and attributes. By following along with the code, you will learn about inheritance and how to create classes with unique functionalities. The project simulates a Jedi Training Simulator, where different Jedi and Sith can use the Force and wield lightsabers.
 
 Remember to choose your preferred project type and have fun customizing your Star Wars-themed project based on your interests and learning goals! May the Force be with you! 🌟✨🚀🔧💻
@@ -114,8 +115,8 @@ Remember to choose your preferred project type and have fun customizing your Sta
 <details>
 <summary>Expand</summary>
 
-```python
-  
+<pre><code>  
+
 class Droid:
     def __init__(self, name, model):
         self.name = name
@@ -149,6 +150,7 @@ c3po = Protocol("C-3PO", "3PO series")
 c3po.speak()                    # Output: C-3PO says 'Beep boop!'
 c3po.speak_languages()          # Output: C-3PO can speak Binary, Human languages!
 ```
+</code></pre>
 In this project, you will be working on expanding a Star Wars-themed game. The existing codebase includes a Droid class, and your task is to create specialized droid classes using inheritance. The Astromech class represents droids with astromech abilities, such as repairing starships and hacking systems. The Protocol class represents droids capable of speaking different languages, including binary and human languages. By expanding upon the existing codebase, you will learn how to create specialized classes and customize the game with new droid characters.
 
 </details>
@@ -159,8 +161,7 @@ In this project, you will be working on expanding a Star Wars-themed game. The e
 <details>
 <summary>Expand</summary>
   
-```python3
-  
+<code><pre>  
   class Creature:
     def __init__(self, name, species):
         self.name = name
@@ -193,7 +194,8 @@ yoda_species.use_force_power()                 # Output: Yoda's Species uses Tel
 nightsister = SithCreature("Nightsister", "Dathomirian")
 nightsister.introduce()                        # Output: I am Nightsister, a Dathomirian creature!
 nightsister.use_force_power()                  # Output: Nightsister unleashes a powerful blast of Force lightning!
-```
+</code></pre>
+    
 The Galactic Creatures project provides you with a unique opportunity to delve into the vast universe of Star Wars and create your own creatures. You can research various species and create a hierarchy of classes to represent different creatures. Each class should have distinct characteristics, abilities, and interactions. This project enables you to practice inheritance and class design while exploring your creativity in designing Star Wars-inspired creatures.
 
 </details>
