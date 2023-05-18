@@ -201,7 +201,7 @@ The Galactic Creatures project provides you with a unique opportunity to delve i
 
 
 
-# 🏗️ Project  Structuring 🏗️
+## 🏗️ Project  Structuring 🏗️
 
 Choosing the right project, structuring it, and building a realistic timeline are key to a successful coding journey. Here's a step-by-step guide on how to approach this process:
 <details>
