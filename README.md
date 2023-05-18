@@ -79,7 +79,7 @@ Take a look at how one topic can support all 3 types of projects!
 <details>
 <summary>Expand</summary>
 
-<pre><code>
+```python
 class ForceUser:
     def __init__(self, name, side):
         self.name = name
@@ -101,7 +101,7 @@ class Sith(ForceUser):
         super().__init__(name, side="Dark")
         self.lightsaber_color = "Red"
 
-    def use_lightsaber(self):
+     def use_lightsaber(self):
         print(f"{self.name} wields a {self.lightsaber_color} lightsaber!")
 
 luke = Jedi("Luke Skywalker")
@@ -111,7 +111,7 @@ luke.use_lightsaber()     # Output: Luke Skywalker swings a Blue lightsaber!
 vader = Sith("Darth Vader")
 vader.use_force()         # Output: Darth Vader uses the Force!
 vader.use_lightsaber()    # Output: Darth Vader wields a Red lightsaber!
-</code></pre>
+``` 
     
 In this code, we have a base class called ForceUser, which represents individuals who can use the Force. The Jedi and Sith classes inherit from the ForceUser class and add specific behaviors and attributes. By following along with the code, you will learn about inheritance and how to create classes with unique functionalities. The project simulates a Jedi Training Simulator, where different Jedi and Sith can use the Force and wield lightsabers.
 
@@ -126,8 +126,8 @@ Remember to choose your preferred project type and have fun customizing your Sta
 
 <details>
 <summary>Expand</summary>
-<br>
-<pre><code>  
+
+```python
 class Droid:
     def __init__(self, name, model):
         self.name = name
@@ -161,8 +161,8 @@ c3po = Protocol("C-3PO", "3PO series")
 c3po.speak()                    # Output: C-3PO says 'Beep boop!'
 c3po.speak_languages()          # Output: C-3PO can speak Binary, Human languages!
 
-</code></pre>
-
+```
+    
 In this project, you will be working on expanding a Star Wars-themed game. The existing codebase includes a Droid class, and your task is to create specialized droid classes using inheritance. The Astromech class represents droids with astromech abilities, such as repairing starships and hacking systems. The Protocol class represents droids capable of speaking different languages, including binary and human languages. By expanding upon the existing codebase, you will learn how to create specialized classes and customize the game with new droid characters.
 </details>
 
@@ -173,8 +173,10 @@ In this project, you will be working on expanding a Star Wars-themed game. The e
 
 <details>
 <summary>Expand</summary>
+    
 <br>
-<code><pre>  
+    
+```python
   class Creature:
     def __init__(self, name, species):
         self.name = name
@@ -207,13 +209,15 @@ yoda_species.use_force_power()                 # Output: Yoda's Species uses Tel
 nightsister = SithCreature("Nightsister", "Dathomirian")
 nightsister.introduce()                        # Output: I am Nightsister, a Dathomirian creature!
 nightsister.use_force_power()                  # Output: Nightsister unleashes a powerful blast of Force lightning!
-</code></pre>
+
+```
+    
 <br>  
 The Galactic Creatures project provides you with a unique opportunity to delve into the vast universe of Star Wars and create your own creatures. You can research various species and create a hierarchy of classes to represent different creatures. Each class should have distinct characteristics, abilities, and interactions. This project enables you to practice inheritance and class design while exploring your creativity in designing Star Wars-inspired creatures.
 
 </details>
-
 </details>
+
 <br>
 
 # 🏗️ Project  Structuring 🏗️
@@ -250,11 +254,13 @@ Creating a realistic timeline can help you manage your time effectively:
 
 <details>
 <summary>Expand</summary>
+    
 <br>
 
 Here's an example of what your project breakdown and timeline might look like:
 
-<code><pre>  
+```md  
+    
 **Project:** Droid Customization
 
 **Tasks:**
@@ -268,7 +274,8 @@ Here's an example of what your project breakdown and timeline might look like:
 - Day 2-3: Task 2
 - Day 4: Task 3
 - Day 5-6: Task 4
-</code></pre>  
+    
+```
 </details>
 <br>
 
@@ -299,7 +306,7 @@ Once you've chosen a project and have structured it along with a timeline, the n
 
 Your proposal might look something like this:
 
-<pre><code>
+```md
     
 **Project Title:** Droid Customization
 
@@ -316,7 +323,8 @@ Your proposal might look something like this:
 - Day 2-3: Create specific Droid sub-classes
 - Day 4: Implement Droid abilities
 - Day 5-6: Test and debug
-</pre></code>
+
+```
 <br>
 
 2. Submit Project Proposal 📥
