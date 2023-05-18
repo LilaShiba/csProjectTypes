@@ -17,7 +17,7 @@ A **Seedling** is a project that requires you to follow along with code and inst
 
 A **Bonsai** is a project that provides you with a starter code base which you will need to modify and expand. These projects are focused on adding new features and improving existing ones.
 
-#### Boiler Plate Rubric
+#### Bonsai Rubric
 
 | Criteria | Description |
 |---------------------|-----------------------------------------------------------|
@@ -30,7 +30,7 @@ A **Bonsai** is a project that provides you with a starter code base which you w
 
 A **Redwood** is a project where you will build something from scratch. You will be given a topic, and you will need to research, design, build, and present an original project.
 
-#### Original Project Rubric
+#### Redwood Project Rubric
 
 | Criteria | Description |
 |---------------------|-----------------------------------------------------------|
@@ -44,4 +44,5 @@ A **Redwood** is a project where you will build something from scratch. You will
 | 📚 Documentation | Provides detailed documentation for the project |
 | 🗂️ Organization | Demonstrates organized and well-structured project files and folders |
 | 🔄 Iterative Development | Shows evidence of iterative development and improvement |
+
 
