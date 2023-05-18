@@ -9,15 +9,7 @@ Welcome to the Computer Science Project Guides! This document provides an enhanc
 | Original        | Projects involving research and creating something new     | 🌟                   |
 
 
-## Explanation of Types:
-
-- **Code-a-long**: These projects involve following along with existing code, typically from tutorials, to learn and practice coding concepts. They focus on understanding and implementing existing solutions.
-
-- **Boiler Plate**: These projects revolve around taking an existing boilerplate or framework and building upon it. You will enhance and customize the codebase to add new features, improve functionality, or optimize performance.
-
-- **Original Project**: These projects involve conducting research, exploring new ideas, and creating something unique. You may need to investigate existing solutions, propose new algorithms, or develop innovative software. The emoji signifies the creative thinking and originality required for such projects.
-
-## Rubrics
+## 📋 Rubrics 📋
 
 <details>
 <summary>Expand to see different rubrics</summary>
@@ -61,7 +53,13 @@ Welcome to the Computer Science Project Guides! This document provides an enhanc
 
 </details>
 
-## Examples
+## 🧪 Examples 🧪
+
+Take a look at how one topic can support all 3 types of projects!
+
+
+<details>
+<summary>Expand</summary>
 
 ### Code-a-long: Jedi Training Simulator
 
@@ -199,11 +197,16 @@ nightsister.use_force_power()                  # Output: Nightsister unleashes a
 The Galactic Creatures project provides you with a unique opportunity to delve into the vast universe of Star Wars and create your own creatures. You can research various species and create a hierarchy of classes to represent different creatures. Each class should have distinct characteristics, abilities, and interactions. This project enables you to practice inheritance and class design while exploring your creativity in designing Star Wars-inspired creatures.
 
 </details>
+</details>
 
-# Project Selection, Structuring, and Timeline Building
+
+
+# 🏗️ Project  Structuring 🏗️
 
 Choosing the right project, structuring it, and building a realistic timeline are key to a successful coding journey. Here's a step-by-step guide on how to approach this process:
-
+<details>
+<summary>Expand</summary>
+    
 ### 1. Project Selection 🎯
 
 In the Jedi Training Simulator, you will find a variety of projects. From "Jedi Fundamentals" to "Galactic Creatures", each project is unique and provides a different set of challenges. Pick a project that aligns with your interests and the skills you want to develop. Remember, there's no right or wrong choice; it's about choosing a project that motivates you!
@@ -250,5 +253,56 @@ Here's an example of what your project breakdown and timeline might look like:
 </details>
 
 Remember, coding is an iterative process. You might not get everything right the first time, and that's okay! The most important thing is to keep learning and improving. May the Force be with you!
+</details>
 
+##  ✅ Project Approval Process ✅
 
+Before you begin coding your selected project, you'll need to get your project timeline approved. This process ensures that you've thought through your project plan and that you're ready to start coding.
+
+Follow these steps for the project approval process:
+
+<details>
+<summary>Expand</summary>
+    
+### 1. Create Project Proposal 📝
+
+Once you've chosen a project and have structured it along with a timeline, the next step is to prepare a project proposal. This proposal should include:
+
+- **Project Title**: The name of the project you've chosen.
+- **Project Description**: A brief summary of what the project is about.
+- **Task Breakdown**: A list of the tasks you plan to complete, broken down into manageable chunks.
+- **Timeline**: An estimated timeline for each task.
+
+Your proposal might look something like this:
+
+```markdown
+    
+**Project Title:** Droid Customization
+
+**Project Description:** This project involves expanding an existing codebase to add new Droid characters with unique functionalities to a Star Wars-themed game.
+
+**Task Breakdown:**
+1. Create Droid class
+2. Create specific Droid sub-classes
+3. Implement Droid abilities
+4. Test and debug
+
+**Timeline:**
+- Day 1: Create Droid class
+- Day 2-3: Create specific Droid sub-classes
+- Day 4: Implement Droid abilities
+- Day 5-6: Test and debug
+```
+    
+2. Submit Project Proposal 📥
+Once you've created your project proposal, submit it for approval. Be sure to check for any feedback or suggestions!
+
+3. Incorporate Feedback 🔄
+You may receive feedback on your project proposal. This can be about the feasibility of the tasks, the estimated time, or the overall structure of the project. Incorporate the feedback into your proposal. This iterative process will help you refine your project planning skills.
+
+4. Get Approval 🎉
+Once your proposal meets all the requirements and you've incorporated any necessary feedback, you'll receive approval to start coding!
+
+Remember, the project approval process is a learning experience designed to enhance your project planning skills. May the Force be with you!
+
+</details>
