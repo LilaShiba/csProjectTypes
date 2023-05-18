@@ -2,17 +2,24 @@
 
 Welcome to the Computer Science Project Guides! This document provides an enhanced understanding of different types of projects you will encounter in this course. Each project type is described in detail and has a designated rubric to help you comprehend the expectations and assessment criteria. Refer to the relevant rubric when working on your projects.
 
+<br>
+<br>
+
 | Type            | Description                                                | Emoji               |
 |-----------------|------------------------------------------------------------|---------------------|
 | Code-a-long     | Projects where you follow along with existing code         | 💻                   |
 | Boiler Plate    | Projects where you build upon an existing boilerplate      | 🔧                   |
 | Original        | Projects involving research and creating something new     | 🌟                   |
 
+<br>
+<br>
 
-## 📋 Rubrics 📋
+# 📋 Rubrics 📋
 
 <details>
     <summary>Expand to see different rubrics</summary>
+    <br>
+
 
 ### Code-a-long Rubric
 
@@ -53,12 +60,17 @@ Welcome to the Computer Science Project Guides! This document provides an enhanc
 
 </details>
 
-## 🧪 Examples 🧪
+<br>
+
+# 🧪 Examples 🧪
 
 Take a look at how one topic can support all 3 types of projects!
 
 <details>
     <summary>Expand</summary>
+    <br>
+
+<br>
 
 ### Code-a-long: Jedi Training Simulator
 
@@ -66,7 +78,6 @@ Take a look at how one topic can support all 3 types of projects!
 
 <details>
 <summary>Expand</summary>
-
 
 <pre><code>
 class ForceUser:
@@ -107,6 +118,7 @@ In this code, we have a base class called ForceUser, which represents individual
 Remember to choose your preferred project type and have fun customizing your Star Wars-themed project based on your interests and learning goals! May the Force be with you! 🌟✨🚀🔧💻
 
 </details>
+<br>
 
 ### Boiler Plate: Droid Customization
 
@@ -114,7 +126,7 @@ Remember to choose your preferred project type and have fun customizing your Sta
 
 <details>
 <summary>Expand</summary>
-
+<br>
 <pre><code>  
 class Droid:
     def __init__(self, name, model):
@@ -150,16 +162,18 @@ c3po.speak()                    # Output: C-3PO says 'Beep boop!'
 c3po.speak_languages()          # Output: C-3PO can speak Binary, Human languages!
 
 </code></pre>
-In this project, you will be working on expanding a Star Wars-themed game. The existing codebase includes a Droid class, and your task is to create specialized droid classes using inheritance. The Astromech class represents droids with astromech abilities, such as repairing starships and hacking systems. The Protocol class represents droids capable of speaking different languages, including binary and human languages. By expanding upon the existing codebase, you will learn how to create specialized classes and customize the game with new droid characters.
 
+In this project, you will be working on expanding a Star Wars-themed game. The existing codebase includes a Droid class, and your task is to create specialized droid classes using inheritance. The Astromech class represents droids with astromech abilities, such as repairing starships and hacking systems. The Protocol class represents droids capable of speaking different languages, including binary and human languages. By expanding upon the existing codebase, you will learn how to create specialized classes and customize the game with new droid characters.
 </details>
+
+<br>
 
 ### Original: Galactic Creatures
 🌟 Project Description: In this project, you have the freedom to research and create your own unique Star Wars-inspired creatures. Design and implement a hierarchy of creature classes using inheritance. Each creature should have distinct characteristics, abilities, and interactions.
 
 <details>
 <summary>Expand</summary>
-  
+<br>
 <code><pre>  
   class Creature:
     def __init__(self, name, species):
@@ -194,19 +208,21 @@ nightsister = SithCreature("Nightsister", "Dathomirian")
 nightsister.introduce()                        # Output: I am Nightsister, a Dathomirian creature!
 nightsister.use_force_power()                  # Output: Nightsister unleashes a powerful blast of Force lightning!
 </code></pre>
-    
+<br>  
 The Galactic Creatures project provides you with a unique opportunity to delve into the vast universe of Star Wars and create your own creatures. You can research various species and create a hierarchy of classes to represent different creatures. Each class should have distinct characteristics, abilities, and interactions. This project enables you to practice inheritance and class design while exploring your creativity in designing Star Wars-inspired creatures.
 
 </details>
+
 </details>
+<br>
 
-
-
-## 🏗️ Project  Structuring 🏗️
+# 🏗️ Project  Structuring 🏗️
 
 Choosing the right project, structuring it, and building a realistic timeline are key to a successful coding journey. Here's a step-by-step guide on how to approach this process:
+
 <details>
 <summary>Expand</summary>
+    <br>
     
 ### 1. Project Selection 🎯
 
@@ -234,9 +250,11 @@ Creating a realistic timeline can help you manage your time effectively:
 
 <details>
 <summary>Expand</summary>
+<br>
 
 Here's an example of what your project breakdown and timeline might look like:
 
+<code><pre>  
 **Project:** Droid Customization
 
 **Tasks:**
@@ -250,13 +268,16 @@ Here's an example of what your project breakdown and timeline might look like:
 - Day 2-3: Task 2
 - Day 4: Task 3
 - Day 5-6: Task 4
-
+</code></pre>  
 </details>
+<br>
 
 Remember, coding is an iterative process. You might not get everything right the first time, and that's okay! The most important thing is to keep learning and improving. May the Force be with you!
 </details>
 
-##  ✅ Project Approval Process ✅
+<br>
+
+#  ✅ Project Approval Process ✅
 
 Before you begin coding your selected project, you'll need to get your project timeline approved. This process ensures that you've thought through your project plan and that you're ready to start coding.
 
@@ -264,19 +285,21 @@ Follow these steps for the project approval process:
 
 <details>
 <summary>Expand</summary>
+    <br>
     
 ### 1. Create Project Proposal 📝
 
 Once you've chosen a project and have structured it along with a timeline, the next step is to prepare a project proposal. This proposal should include:
 
-- **Project Title**: The name of the project you've chosen.
+ - **Project Title**: The name of the project you've chosen.
 - **Project Description**: A brief summary of what the project is about.
 - **Task Breakdown**: A list of the tasks you plan to complete, broken down into manageable chunks.
 - **Timeline**: An estimated timeline for each task.
 
+
 Your proposal might look something like this:
 
-```markdown
+<pre><code>
     
 **Project Title:** Droid Customization
 
@@ -293,8 +316,9 @@ Your proposal might look something like this:
 - Day 2-3: Create specific Droid sub-classes
 - Day 4: Implement Droid abilities
 - Day 5-6: Test and debug
-```
-    
+</pre></code>
+<br>
+
 2. Submit Project Proposal 📥
 Once you've created your project proposal, submit it for approval. Be sure to check for any feedback or suggestions!
 
