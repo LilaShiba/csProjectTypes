@@ -91,13 +91,10 @@ Take a look at how one topic can support all 3 types of projects!
     vader = Sith("Darth Vader")
     vader.use_force()         # Output: Darth Vader uses the Force!
     vader.use_lightsaber()    # Output: Darth Vader wields a Red lightsaber!
-    ``` 
+  ``` 
+In this code, we have a base class called ForceUser, which represents individuals who can use the Force. The Jedi and Sith classes inherit from the ForceUser class and add specific behaviors and attributes. By following along with the code, you will learn about inheritance and how to create classes with unique functionalities. The project simulates a Jedi Training Simulator, where different Jedi and Sith can use the Force and wield lightsabers. Remember to choose your preferred project type and have fun customizing your Star Wars-themed project based on your interests and learning goals! May the Force be with you! 🌟✨🚀🔧💻
 
-    In this code, we have a base class called ForceUser, which represents individuals who can use the Force. The Jedi and Sith classes inherit from the ForceUser class and add specific behaviors and attributes. By following along with the code, you will learn about inheritance and how to create classes with unique functionalities. The project simulates a Jedi Training Simulator, where different Jedi and Sith can use the Force and wield lightsabers.
-
-    Remember to choose your preferred project type and have fun customizing your Star Wars-themed project based on your interests and learning goals! May the Force be with you! 🌟✨🚀🔧💻
-
-  </details>
+</details>
 <br>
 
 ### Bonsai: Droid Customization
