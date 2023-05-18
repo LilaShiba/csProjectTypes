@@ -12,7 +12,7 @@ Welcome to the Computer Science Project Guides! This document provides an enhanc
 ## 📋 Rubrics 📋
 
 <details>
-<summary>Expand to see different rubrics</summary>
+    <summary>Expand to see different rubrics</summary>
 
 ### Code-a-long Rubric
 
@@ -57,9 +57,8 @@ Welcome to the Computer Science Project Guides! This document provides an enhanc
 
 Take a look at how one topic can support all 3 types of projects!
 
-
 <details>
-<summary>Expand</summary>
+    <summary>Expand</summary>
 
 ### Code-a-long: Jedi Training Simulator
 
@@ -68,7 +67,8 @@ Take a look at how one topic can support all 3 types of projects!
 <details>
 <summary>Expand</summary>
 
-```<pre><code>
+
+<pre><code>
 class ForceUser:
     def __init__(self, name, side):
         self.name = name
@@ -116,7 +116,6 @@ Remember to choose your preferred project type and have fun customizing your Sta
 <summary>Expand</summary>
 
 <pre><code>  
-
 class Droid:
     def __init__(self, name, model):
         self.name = name
@@ -149,7 +148,7 @@ r2d2.use_ability()              # Output: R2-D2 uses their astromech abilities t
 c3po = Protocol("C-3PO", "3PO series")
 c3po.speak()                    # Output: C-3PO says 'Beep boop!'
 c3po.speak_languages()          # Output: C-3PO can speak Binary, Human languages!
-```
+
 </code></pre>
 In this project, you will be working on expanding a Star Wars-themed game. The existing codebase includes a Droid class, and your task is to create specialized droid classes using inheritance. The Astromech class represents droids with astromech abilities, such as repairing starships and hacking systems. The Protocol class represents droids capable of speaking different languages, including binary and human languages. By expanding upon the existing codebase, you will learn how to create specialized classes and customize the game with new droid characters.
 
