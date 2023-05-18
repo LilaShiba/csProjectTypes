@@ -4,7 +4,7 @@
 
 A **Seedling** is a project that requires you to follow along with code and instructions. These projects are focused on learning and understanding someone else's code and project.
 
-#### Code-a-long Rubric
+#### Seedling Rubric
 
 | Criteria | Description |
 |---------------------|-----------------------------------------------------------|
@@ -44,5 +44,6 @@ A **Redwood** is a project where you will build something from scratch. You will
 | 📚 Documentation | Provides detailed documentation for the project |
 | 🗂️ Organization | Demonstrates organized and well-structured project files and folders |
 | 🔄 Iterative Development | Shows evidence of iterative development and improvement |
+
 
 
