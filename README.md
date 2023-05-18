@@ -3,8 +3,9 @@
 ## 🌱 Seedling
 
 A **Seedling** is a project that requires you to follow along with code and instructions. These projects are focused on learning and understanding someone else's code and project.
-
-#### Seedling Rubric
+<details>
+<summary>Seedling Rubric</summary>
+  
 
 | Criteria | Description |
 |---------------------|-----------------------------------------------------------|
@@ -13,12 +14,15 @@ A **Seedling** is a project that requires you to follow along with code and inst
 | 💡 Problem Solving | Identifies and resolves any issues or errors encountered during coding |
 | 🎨 Code Quality | Writes clean, well-structured, and readable code |
 
+</details>
+
 ## 🌿 Bonsai
 
 A **Bonsai** is a project that provides you with a starter code base which you will need to modify and expand. These projects are focused on adding new features and improving existing ones.
 
-#### Bonsai Rubric
-
+<details>
+<summary>Bonsai Rubric</summary>
+  
 | Criteria | Description |
 |---------------------|-----------------------------------------------------------|
 | 🚀 Feature Enhancement | Successfully adds new features or functionality to the codebase |
@@ -26,12 +30,15 @@ A **Bonsai** is a project that provides you with a starter code base which you w
 | ⚠️ Error Handling | Implements robust error handling mechanisms |
 | 📄 Documentation | Provides clear and concise documentation for the expanded code |
 
+</details>
+
 ## 🌳 Redwood
 
 A **Redwood** is a project where you will build something from scratch. You will be given a topic, and you will need to research, design, build, and present an original project.
 
-#### Redwood Project Rubric
-
+<details>
+<summary>Redwood Rubric</summary>
+  
 | Criteria | Description |
 |---------------------|-----------------------------------------------------------|
 | 🔍 Research Depth | Demonstrates in-depth research and understanding of the topic |
@@ -44,6 +51,7 @@ A **Redwood** is a project where you will build something from scratch. You will
 | 📚 Documentation | Provides detailed documentation for the project |
 | 🗂️ Organization | Demonstrates organized and well-structured project files and folders |
 | 🔄 Iterative Development | Shows evidence of iterative development and improvement |
+</details>
 
 # 🧪 Examples 🧪
 
